@@ -1,3 +1,6 @@
+## 📝 Repository Note
+Please note that this repository contains **only a portion of the original project**. Certain files, configurations, and source code have been excluded intentionally using `.gitignore` . As a result, some functionality may not be fully available or executable from this repository alone. The repository is intended to demonstrate the project's architecture, implementation approach, and selected parts of the codebase rather than provide the complete source code.
+
 # 🚀 Scalable Test Automation Framework
 
 A simple test automation framework designed using industry standards to minimize hardcoding and increase script maintenance efficiency.
